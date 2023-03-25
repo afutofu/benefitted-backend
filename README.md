@@ -1,6 +1,6 @@
 # Benefitted Backend
 
-Website Link: [Benefitted](https://benefitted.herokuapp.com)
+Website Link: [Benefitted](https://benefitted.onrender.com)
 
 Instagram Page: [instagram.com/benefitted.id/](https://www.instagram.com/benefitted.id/)
 
