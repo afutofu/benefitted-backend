@@ -2,6 +2,8 @@
 
 Website Link: [Benefitted](https://benefitted.onrender.com)
 
+Frontend Repository: [benefitted-frontend](https://github.com/afutofu/benefitted-frontend)
+
 Instagram Page: [instagram.com/benefitted.id/](https://www.instagram.com/benefitted.id/)
 
 Backend API Benefitted.
