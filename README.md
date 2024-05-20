@@ -10,10 +10,10 @@ Backend API Benefitted.
 
 Technologies used:
 
-- [Node.js](https://nodejs.org/en/) - Backend runtime environment
-- [Express](https://expressjs.com/) - API for fetching and storing data to database
-- [MongoDB](https://www.mongodb.com/) - Database
-- [JWT](https://en.wikipedia.org/wiki/JSON_Web_Token) - Reliable authentication
+- [Node.js](https://nodejs.org/en/)
+- [Express](https://expressjs.com/)
+- [MongoDB](https://www.mongodb.com/)
+- [JWT](https://en.wikipedia.org/wiki/JSON_Web_Token)
 
 Features in this version:
 
